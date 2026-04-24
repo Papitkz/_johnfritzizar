@@ -3474,7 +3474,7 @@ body {
   animation: float 8s ease-in-out infinite;
 }
 
-.floating-element:nth-child(odd) {d
+.floating-element:nth-child(odd) {
   animation-delay: 1s;
 }
 
